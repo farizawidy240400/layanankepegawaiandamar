@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DAMAR</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <!-- my css -->
+    <link rel="stylesheet" href="../../style.css">
+</head>
+
+<body>
+    <div class="banner ">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top " style="background-color:#026b1d">
+
+            <div class="container">
+                <a class="navbar-brand" href="../index.html">
+                    <img src="../back3.png" alt="" width="250" height="50"
+                        class="d-inline-block align-text-top">
+
+                </a>
+
+
+            </div>
+        </nav>
+        <!-- akhir navbar -->
+
+        <!--jumbotron  -->
+
+        <section class="jumbotron">
+            <div class="container  ">
+
+
+                                <div class="row justify-content-center " style="padding-top:110px">
+                    <div class="col-md-3 col-6 mb-4 hovered-card">
+                        <div class="card rounded-5">
+                            <a href="https://simpeg5.kemenag.go.id/login"> <img src="aplikasi_simpeg.png" class="card-img-top rounded-5"></a>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 mb-4 hovered-card">
+                        <div class="card rounded-5">
+                            <a href="https://simsdm.kemenag.go.id/login"> <img src="aplikasi_simsdm.png" class="card-img-top rounded-5"></a>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 mb-4 hovered-card">
+                        <div class="card rounded-5">
+                            <a href="https://asndigital.bkn.go.id/"> <img src="aplikasi_asndigital.png" class="card-img-top rounded-5"></a>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 mb-4 hovered-card">
+                        <div class="card rounded-5">
+                            <a href="https://kinerja.bkn.go.id/login"> <img src="aplikasi_ekinerja.png" class="card-img-top rounded-5"></a>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-6 mb-4 hovered-card">
+                        <div class="card rounded-5">
+                            <a href="http://monitoring-siasn.bkn.go.id/"> <img src="aplikasi_mola.png" class="card-img-top rounded-5"></a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- akhir prijek -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
